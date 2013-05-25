@@ -329,8 +329,8 @@
 		89E96D4A173DA96B00E2DE9D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Kevin Ko (37HMTKFF2E)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Kevin Ko (37HMTKFF2E)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Junghee Ko (CMRYQPYY8D)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Junghee Ko (CMRYQPYY8D)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -341,8 +341,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "9D5B5477-B105-47FC-A539-DF61BE657C4F";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "9D5B5477-B105-47FC-A539-DF61BE657C4F";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -350,8 +350,8 @@
 		89E96D4B173DA96B00E2DE9D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Kevin Ko (37HMTKFF2E)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Kevin Ko (37HMTKFF2E)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Junghee Ko (CMRYQPYY8D)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Junghee Ko (CMRYQPYY8D)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -362,8 +362,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "9D5B5477-B105-47FC-A539-DF61BE657C4F";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "9D5B5477-B105-47FC-A539-DF61BE657C4F";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
